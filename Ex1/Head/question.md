@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta property = "og:title" content = "Finding Me"/>
-    <meta property = "og:description" content = "A fulfilling narrative of struggle and success.Her gorgeous storytelling will inspire anyone wishing to shed old labels."/>
-    <meta property = "og:author" content = "Viola Davis"/>
-    <meta property = "og:favicon" content = "https://favicon.com/ogp/jpg"/>
-    <meta property = "og:type" content = "Motivational Book"/>
+    <meta charset="UTF-8" />
+    <title>Finding Me</title>
+    <meta
+      name = "description"
+      content = "A fulfilling narrative of struggle and access.Her gorgeous storytelling will inspire anyone wishing to shed old labels."/> 
+    <meta name = "author" content = "Viola Davis"/>
+    <meta property = "og:favicon" content = "<link rel="icon" href="favicon.ico" type="image/x-icon" />
+   <meta property = "og:type" content = "Motivational Book"/>
   </head>
   <body></body>
 </html>
