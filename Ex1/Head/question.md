@@ -5,6 +5,7 @@
     <meta property = "og:description" content = "A fulfilling narrative of struggle and success.Her gorgeous storytelling will inspire anyone wishing to shed old labels."/>
     <meta property = "og:author" content = "Viola Davis"/>
     <meta property = "og:favicon" content = "https://favicon.com/ogp/jpg"/>
+    <meta property = "og:type" content = "Motivational Book"/>
   </head>
   <body></body>
 </html>
