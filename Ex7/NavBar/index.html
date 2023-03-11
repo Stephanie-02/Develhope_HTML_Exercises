@@ -8,19 +8,30 @@
 </head>
 <body>
   <nav>
-    <a href="/navbar/">Navbar</a>
-    <a href="#home">Home</a>
-    <a href="#Link">Link</a>
-    <a href="#disabled">Disabled</a>
-    <div class="dropdown">
-        <button class="dropbtn">Dropdown</button>
-        <div class="dropdown-content">
-          <a href="#">Link 1</a>
-          <a href="#">Link 2</a>
-          <a href="#">Link 3</a>
-        </div>
-      </div>
+    <table> 
     
-  </nav>  
-</body>
-</html>
+      <th><big><a href="#Navbar">Navbar</a></big></th>
+      <th><a href="#Home">Home</a></th>
+      <th><a href="#Link">Link</a></th>
+      <th>
+          <select name="dropdown" id="dropdown">
+              <option value="Link 1"><a href="#dropdown">Dropdown</a></option>
+          </select>
+      </th>
+      <th>
+          <button disabled="true">Disabled</button>
+      </th>
+      <th>
+         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </th>
+      <td>
+          <input type="search" name="search"  id="search" placeholder="Search">
+      </td>
+      <td><button type="submit">Search</button></td>
+    </table>
+ <hr>
+  </nav>
+</head>
+<body>
+ 
+
